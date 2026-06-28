@@ -1,0 +1,41 @@
+[1]	I. A. Okwor, G. Hitch, S. Hakkim, S. Akbar, D. Sookhoo, and J. Kainesie, "Digital technologies impact on healthcare delivery: a systematic review of artificial intelligence (AI) and machine-learning (ML) adoption, challenges, and opportunities," AI, vol. 5, no. 4, pp. 1918-1941, 2024.
+
+[2]	S. S. Bhuyan et al., "Generative artificial intelligence use in healthcare: opportunities for clinical excellence and administrative efficiency," Journal of medical systems, vol. 49, no. 1, p. 10, 2025.
+
+[3]	S. Mizna, S. Arora, P. Saluja, G. Das, and W. A. Alanesi, "An analytic research and review of the literature on practice of artificial intelligence in healthcare," European Journal of Medical Research, vol. 30, no. 1, p. 382, 2025.
+
+[4]	I. N. Migdalis, "Chronic Complications of Diabetes: Prevalence, Prevention, and Management,"  vol. 13, ed: MDPI, 2024, p. 7001.
+
+[5]	H. Guan et al., "Advances in secondary prevention mechanisms of macrovascular complications in type 2 diabetes mellitus patients: a comprehensive review," European Journal of Medical Research, vol. 29, no. 1, p. 152, 2024.
+
+[6]	I. D. Federation, "IDF Diabetes Atlas, 11th Edition," International Diabetes Federation, Brussels, Belgium, Statistical Report 2025 2025. Accessed: Oct. 20, 2025. [Online]. Available: https://idf.org/about-diabetes/diabetes-facts-figures
+
+[7]	S. C. Wang, G. Nickel, K. P. Venkatesh, M. M. Raza, and J. C. Kvedar, "AI-based diabetes care: risk prediction models and implementation concerns," NPJ digital medicine, vol. 7, no. 1, p. 36, 2024.
+
+[8]	S. Oei, T. Bakkes, M. Mischi, R. Bouwman, R. van Sloun, and S. Turco, "Artificial intelligence in clinical decision support and the prediction of adverse events," Frontiers in Digital Health, vol. 7, p. 1403047, 2025.
+
+[9]	H. Hu, W. Dong, J. Yu, S. Guan, and X. Zhu, "Utilizing Attention-Enhanced Deep Neural Networks for Large-Scale Preliminary Diabetes Screening in Population Health Data," Electronics, vol. 13, no. 21, p. 4177, 2024.
+
+[10]	M. Rolando, V. Raggio, H. Naya, L. Spangenberg, and L. Cagnina, "A labeled medical records corpus for the timely detection of rare diseases using machine learning approaches," Scientific Reports, vol. 15, no. 1, p. 6932, 2025.
+
+[11]	X. Feng, Y. Cai, and R. Xin, "Optimizing diabetes classification with a machine learning-based framework," BMC bioinformatics, vol. 24, no. 1, p. 428, 2023.
+
+[12]	Z. Zhang, "Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset," Journal of Innovations in Medical Research, vol. 4, no. 1, pp. 65-71, 2025.
+
+[13]	X. Qi, Y. Lu, Y. Shi, H. Qi, and L. Ren, "A deep neural network prediction method for diabetes based on Kendall’s correlation coefficient and attention mechanism," Plos one, vol. 19, no. 7, p. e0306090, 2024.
+
+[14]	J. Zhao, H. Gao, C. Yang, T. An, Z. Kuang, and L. Shi, "Attention-oriented cnn method for type 2 diabetes prediction," Applied Sciences, vol. 14, no. 10, p. 3989, 2024.
+
+[15]	M. T. García-Ordás, C. Benavides, J. A. Benítez-Andrades, H. Alaiz-Moretón, and I. García-Rodríguez, "Diabetes detection using deep learning techniques with oversampling and feature augmentation," Computer Methods and Programs in Biomedicine, vol. 202, p. 105968, 2021.
+
+[16]	M. Y. Shams, Z. Tarek, and A. M. Elshewey, "A novel RFE-GRU model for diabetes classification using PIMA Indian dataset," Scientific reports, vol. 15, no. 1, p. 982, 2025.
+
+[17]	M. S. Reza, R. Amin, R. Yasmin, W. Kulsum, and S. Ruhi, "Improving diabetes disease patients classification using stacking ensemble method with PIMA and local healthcare data," Heliyon, vol. 10, no. 2, 2024.
+
+[18]	N. F. Idris, M. A. Ismail, M. I. M. Jaya, A. O. Ibrahim, A. W. Abulfaraj, and F. Binzagr, "Stacking with Recursive Feature Elimination-Isolation Forest for classification of diabetes mellitus," Plos one, vol. 19, no. 5, p. e0302595, 2024.
+
+[19]	A. Aich, M. M. Murshed, S. Hewage, and A. Mayeaux, "CopulaSMOTE: A Copula-Based Oversampling Approach for Imbalanced Classification in Diabetes Prediction," arXiv preprint arXiv:2506.17326, 2025.
+
+[20]	C. Liu, H. Yang, J. Yang, and H. Wang, "Correlation analysis of diabetes based on Copula," Frontiers in Endocrinology, vol. 15, p. 1291895, 2024.
+
+[21]	J. Cohen, Statistical power analysis for the behavioral sciences. routledge, 2013.
