@@ -43,3 +43,31 @@ Kết quả thực nghiệm sau quá trình tiền xử lý dữ liệu, lọc m
 <p align="center">
   <img src="Output/ROC.png" width="50%">
 </p>
+
+
+## 4. Dataset
+
+This project uses the **Pima Indians Diabetes Dataset**, a benchmark dataset widely used for diabetes classification research.
+
+The dataset contains **768 samples** with **8 medical features** and one binary target variable (`Outcome`):
+- `1`: Diabetes
+- `0`: No Diabetes
+
+### Features
+
+| Feature | Description |
+|---|---|
+| Pregnancies | Number of pregnancies |
+| Glucose | Plasma glucose concentration |
+| BloodPressure | Diastolic blood pressure |
+| SkinThickness | Triceps skin thickness |
+| Insulin | Serum insulin level |
+| BMI | Body Mass Index |
+| DiabetesPedigreeFunction | Genetic diabetes risk factor |
+| Age | Patient age |
+
+### Notes
+
+- All features are numerical.
+- Some medical measurements contain zero values that are physiologically invalid (e.g., BMI, glucose, blood pressure), which are treated as missing values during preprocessing.
+- The dataset is used for data analysis, feature evaluation, sample filtering, and diabetes classification modeling.
